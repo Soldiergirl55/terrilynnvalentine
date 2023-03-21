@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Terri, an <a href="https://linkedin.com/in/Terri">IT Professional</a>☺</h1>
+<h1>Hi, I'm Terri Valentine, an <a href="https://linkedin.com/in/Terri">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
